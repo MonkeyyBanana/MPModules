@@ -1,0 +1,13 @@
+whereAmI:
+  #Available Plug-ins %world% %xpos% %ypos% %zpos% %yaw% %pitch%
+  - "&l&6Bruh Where Am I At???"
+  - "&eCurrent World: %world%"
+  - "&eX: %xpos% (+East <-> -West)"
+  - "&eY: %ypos% (+Up <-> -Down)"
+  - "&eZ: %zpos% (+South <-> -North)"
+  - "&eYaw: %yaw% (Rotation)"
+  - "&ePitch: %pitch% (Head Angle)"
+  
+basic:
+  noPermission: "&4&lNo Permission!"
+  consolePrefix: "[MonkeyModules]"

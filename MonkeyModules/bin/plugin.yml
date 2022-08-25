@@ -1,0 +1,14 @@
+name: MonkeyModules
+author: KingMonkeyy
+version: 1.16.4
+api-version: 1.13
+main: com.stinkymonkey.modules.main
+
+commands:
+  whereami:
+    description: Where the hell am I?
+    
+permissions:
+  MonkeyModules.whereami:
+    default: op
+    description: bruh where am I at tho
